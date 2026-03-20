@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Christos Cakes",
+  "description": "A bespoke cake business storefront and logistics manager with real-time delivery tracking and smart order assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
